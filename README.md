@@ -1,6 +1,6 @@
 # How to install Tizen Studio on Arch Linux
 
-### Just clone the repo and run `./install.sh`
+**Just clone the repo and run `./install.sh`**
 
 What we do?
 
@@ -18,3 +18,7 @@ What we do?
 If you have some problems with kwin while running device manager, such as some windows not well sized (1 pixel x 59) so is impossible to connect to devices.
 To solve it change to other than kde wm or force windows size as in https://ahelpme.com/software/kde-plasma/kde-plasma-windows-force-resize-ikvm-virtual-keyboard/ 
 Thanks @aleixq
+
+## Certificates
+
+https://developer.samsung.com/smarttv/develop/getting-started/setting-up-sdk/creating-certificates.html
