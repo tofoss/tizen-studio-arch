@@ -24,3 +24,6 @@ Thanks @aleixq
 https://developer.samsung.com/smarttv/develop/getting-started/setting-up-sdk/creating-certificates.html
 
 Connect to the device with `sdb` installed along with tizen, to get the proper id for the device, when creating a certificate.
+
+### Jellyfin
+https://github.com/Georift/install-jellyfin-tizen
